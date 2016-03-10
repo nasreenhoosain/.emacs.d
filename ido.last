@@ -1,0 +1,226 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+("/home/nasreen/Code/Cognician/Reports/src/cognician/reports/report_library/rodan_and_fields/" . "helpers/")
+("/home/nasreen/Code/Cognician/Reports/src/cognician/reports/data/" . "bundles/")
+("/home/nasreen/excel_test/src/" . "excel_test/")
+("/home/nasreen/excel_test/" . "src/")
+("/home/nasreen/Code/Cognician/Reports/resources/" . "schema/")
+("/home/nasreen/.emacs.d/elpa/" . "starter-kit-20130904.1547/")
+("/home/nasreen/.emacs.d/" . "elpa/")
+("/home/nasreen/Code/Cognician/Reports/old-src/manual_reporting/" . "reports/")
+("/home/nasreen/Code/Cognician/Reports/old-src/" . "manual_reporting/")
+("/home/nasreen/Code/Cognician/Reports/src/cognician/reports/report_library/" . "mindful_revolution/")
+("/home/nasreen/Code/Cognician/Reports/src/cognician/reports/" . "report_library/")
+("/home/nasreen/Code/Cognician/Reports/src/cognician/" . "reports/")
+("/home/nasreen/Code/Cognician/Reports/src/" . "cognician/")
+("/home/nasreen/Code/Cognician/Reports/" . "src/")
+("/home/nasreen/Code/Cognician/Highstorm/dev/manual_reporting/utils/bundles/" . "la/")
+("/home/nasreen/Code/Cognician/Highstorm/dev/manual_reporting/utils/" . "bundles/")
+("/" . "home/")
+("/home/nasreen/Code/Cognician/Highstorm/dev/manual_reporting/" . "reports/")
+("/home/nasreen/Code/Cognician/Highstorm/dev/" . "manual_reporting/")
+("/home/nasreen/Code/Cognician/Highstorm/" . "dev/")
+("/home/nasreen/Code/Cognician/" . "Reports/")
+("/home/nasreen/Code/" . "Cognician/")
+("/home/nasreen/Pracs/clojure-noob/src/" . "clojure_noob/")
+("/home/nasreen/Pracs/clojure-noob/" . "src/")
+("/home/nasreen/Pracs/" . "clojure-noob/")
+("/home/nasreen/cognician/reporting/random-mindset/src/" . "random_mindset/")
+("/home/nasreen/cognician/reporting/random-mindset/" . "src/")
+("/home/nasreen/cognician/reporting/" . "random-mindset/")
+("/home/nasreen/cognician/" . "reporting/")
+("/home/" . "nasreen/")
+("/home/nasreen/clojure-noob/src/" . "clojure_noob/")
+("/home/nasreen/clojure-noob/" . "src/")
+("/home/nasreen/" . "Code/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+"/home/nasreen/Code/Cognician/Reports/src/cognician/reports/report_library/mindful_revolution/"
+"/home/nasreen/Code/Cognician/Reports/src/cognician/reports/"
+"/home/nasreen/.emacs.d/"
+"/home/nasreen/.lein/"
+"/home/nasreen/Code/Cognician/Reports/src/cognician/reports/report_library/rodan_and_fields/"
+"/home/nasreen/Code/Cognician/Reports/src/cognician/reports/report_library/rodan_and_fields/helpers/"
+"/home/nasreen/Code/Cognician/Reports/src/cognician/reports/data/"
+"/home/nasreen/Code/Cognician/Reports/src/cognician/reports/report_library/cci/"
+"/home/nasreen/Code/Cognician/Reports/src/cognician/reports/report_library/rodan_and_fields/research/"
+"/home/nasreen/Code/Cognician/Reports/src/cognician/reports/report_library/"
+"/home/nasreen/Code/Cognician/Reports/src/cognician/reports/excel/"
+"/home/nasreen/Code/Cognician/Reports/old-src/manual_reporting/reports/"
+"/home/nasreen/Code/Cognician/Reports/src/cognician/reports/report_library/ipl/"
+"/home/nasreen/Code/Cognician/Reports/src/cognician/reports/report_library/rmb/"
+"/home/nasreen/Code/Cognician/Reports/dev/"
+"/home/nasreen/Code/Cognician/Reports/src/cognician/reports/asana/"
+"/home/nasreen/Code/Cognician/Reports/"
+"/home/nasreen/Code/Cognician/Reports/src/cognician/reports/report_library/dyc/"
+"/home/nasreen/Code/Cognician/Reports/src/cognician/reports/report_library/de_beers/"
+"/home/nasreen/Code/Cognician/Reports/src/cognician/reports/tools/"
+"/home/nasreen/Code/Cognician/Reports/src/cognician/reports/report_library/rmb_report/"
+"/home/nasreen/.emacs.d/elpa/starter-kit-20130904.1547/"
+"/home/nasreen/excel_test/"
+"/home/nasreen/excel_test/src/excel_test/"
+"/home/nasreen/Code/Cognician/Reports/src/cognician/reports/datomic/"
+"/home/nasreen/Code/Cognician/Highstorm/dev/manual_reporting/"
+"/home/nasreen/Code/Cognician/Highstorm/dev/manual_reporting/reports/"
+"/home/nasreen/Code/Cognician/Highstorm/dev/manual_reporting/utils/bundles/"
+"/home/nasreen/Code/Cognician/Highstorm/dev/manual_reporting/utils/"
+"/home/nasreen/Code/Cognician/Highstorm/dev/manual_reporting/nasreen/"
+"/home/nasreen/"
+"/home/nasreen/Code/Cognician/Highstorm/dev/manual_reporting/utils/c2/"
+"/home/nasreen/Code/Cognician/Highstorm/"
+"/home/nasreen/Code/Cognician/Highstorm/dev/"
+"/home/nasreen/Pracs/clojure-noob/src/clojure_noob/"
+"/home/nasreen/Documents/"
+"/home/nasreen/cognician/reporting/random-mindset/src/random_mindset/"
+"/home/nasreen/clojure-noob/src/clojure_noob/"
+)
+
+;; ----- ido-work-file-list -----
+(
+"core.clj"
+"repl.clj"
+"init.el"
+"profile.clj"
+"profiles.clj"
+"engagement.clj"
+"activity.clj"
+"usage.clj"
+"rf_engagement.clj"
+"activity_report.clj"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+("/home/nasreen/Code/Cognician/Reports/" (22240 6748 288250 508000) "test2.xlsx" "old-src.zip" "project.clj~" "old-src/" ".nrepl-port" "../" "readme.md" "bootstrap.cfg" "dev/" "out/" "resources/" "target/" ".projectile" "src/" "config.edn" "./" ".git/" "test/" "dev-resources/" "test1.xlsx" ".gitignore" "test3.xlsx" "logs/" "logback.xml" "project.clj")
+
+("/home/nasreen/" (22241 27512 559483 305000) "Pictures/" "first.html" "first.html~" ".cache/" "zsh-plugin/" ".gnupg/" "Monoid-Retina.ttf" ".gphoto/" ".zsh_history" "../" "poker.clj" ".thunderbird/" ".profile" "examples.desktop" "Videos/" "160126 meeting with robert" ".lein/" ".bash_logout" "Templates/" "160209 se edits" "cognician/" "S3/" ".compiz/" ".dbus/" "iela" "Desktop/" ".oracle_jre_usage/" ".xsession-errors.old" ".lesshst" "me.jpg" "excel_test/" ".zshrc.pre-oh-my-zsh" "Monoid-Regular.ttf" ".config/" ".ssh/" "Pracs/" "content.html" "data.clj" ".s3cfg" "MR_template.xlsx" "zsh-plugin.zsh~" ".dmrc" ".hplip/" "./" "d@w nice insights" ".zcompcache/" "Datomic/" "idea-IC-143.2287.1/" "antigen.zsh" ".emacs.d/" ".linuxbrew/" ".gitconfig" ".oh-my-zsh/" ".emacs.d.antoine/" ".xsession-errors" "LightTable/" "Monoid-Italic.ttf" ".antigen/" ".gconf/" ".mozilla/" ".kde/" "barriers to 5s at your site.ods" ".zshrc" ".Xauthority" "Documents/" ".m2/" "zsh-plugin.zsh" ".gksu.lock" ".emacs.d.simple/" "separate responses" ".xinputrc" ".local/" ".pypar2/" ".ICEauthority" ".IdeaIC15/" ".gstreamer-0.10/" "mindfulness audio descriptions" ".zsh_history.old" ".zshrc~" ".fonts/" ".zcompdump-nasreen-X555LN-5.0.2" "Downloads/" ".bashrc" ".pki/" "promp type suggestions" "trim-user-agent" ".zcompdump" "Music/" ".gnome/" ".bash_history" "Monoid-Bold.ttf" ".zsh-update" "Public/" "Code/" "Readme+License.html")
+
+("/home/nasreen/.emacs.d/" (22238 53136 173631 630000) "backups/" ".smex-items" "init.el" "auto-save-list/" "../" "var/" "projectile-bookmarks.eld" "ido.last" "keybinds.el" "places" "./" ".git/" "url/" "recentf" ".gitignore" "elpa/")
+
+("/home/nasreen/.lein/" (22238 51190 177538 796000) "profiles.clj" "../" "profile.clj" "repl-history" "./")
+
+("/home/nasreen/Code/Cognician/Reports/src/cognician/reports/data/" (22238 50397 9500 958000) "satisfaction.clj" "../" "aggr.clj" "bundles/" "chat_export.clj" "./" "failed_logins.clj" "journey.clj" "activity.clj" "cog_usage.clj" "engagement.clj" "usage.clj" "time_spent.clj" "devices.clj")
+
+("/home/nasreen/Code/Cognician/Reports/src/cognician/reports/report_library/mindful_revolution/" (22238 47097 253343 541000) "repl.clj" "../" "./" "core.clj")
+
+("/home/nasreen/Code/Cognician/Reports/src/cognician/reports/report_library/rodan_and_fields/" (22238 45471 598336 674000) "repl.clj" "../" "helpers/" "research/" "./" "core.clj")
+
+("/home/nasreen/Code/Cognician/Reports/src/cognician/reports/report_library/cci/" (22237 18172 643126 267000) "../" "./" "core.clj")
+
+("/home/nasreen/Code/Cognician/Reports/src/cognician/reports/report_library/rodan_and_fields/helpers/" (22230 46008 969015 798000) "../" "dna.clj" "./" "engagement.clj")
+
+("/home/nasreen/Code/Cognician/Reports/src/cognician/reports/report_library/rodan_and_fields/research/" (22237 20509 79237 727000) "../" "cohort_2_engagement.clj" "rf_engagement.clj" "./")
+
+("/home/nasreen/Code/Cognician/Reports/src/cognician/reports/excel/" (22237 18172 627126 266000) "../" "./" "core.clj")
+
+("/home/nasreen/Code/Cognician/Reports/src/cognician/reports/report_library/" (22237 18172 627126 266000) "se/" "../" "rodan_and_fields/" "dyc/" "./" "activity_report.clj" "cci/" "rmb/" "mindful_revolution/" "de_beers/" "agof/" "ipl/")
+
+("/home/nasreen/Code/Cognician/Reports/src/cognician/reports/" (22237 18172 687126 269000) "repl.clj" "homeless/" "excel/" "../" "tools/" "report_library/" "datomic/" "pdf/" "asana/" "./" "services/" "data/" "util.clj" "datomic_intro.clj" "graphics/")
+
+("/home/nasreen/Code/Cognician/Reports/old-src/manual_reporting/reports/" (22232 11583 603862 695000) "debeers.clj" "../" "searches.clj" "dnvgl.clj" "cci_translation.clj" "ipl.clj" "rodan_and_fields.clj" "standard_bank.clj" "delight_survey.clj" "mindful_revolution.clj" "./" "sacap.clj" "debeers_graphs.clj")
+
+("/home/nasreen/Code/Cognician/Reports/src/cognician/reports/report_library/ipl/" (22233 24373 939256 504000) "repl.clj" "../" "./" "report.clj" "core.clj")
+
+("/home/nasreen/Code/Cognician/Reports/src/cognician/reports/report_library/rmb/" (22210 61528 517685 75000) "../" "./" "core.clj")
+
+("/home/nasreen/Code/Cognician/Reports/src/cognician/reports/data/bundles/" (22184 26944 249467 633000) "la_lite/" "../" "./")
+
+("/home/nasreen/Code/Cognician/Reports/src/cognician/reports/asana/" (22230 55058 301663 235000) "../" "./" "core.clj")
+
+("/home/nasreen/Code/Cognician/Reports/old-src/manual_reporting/" (22136 64938 0 0) "../" "scratch.clj" "reports/" "./" "utils/" "utils.clj")
+
+("/home/nasreen/Code/Cognician/Reports/old-src/" (22137 5710 0 0) "../" "manual_reporting/" "./")
+
+("/home/nasreen/Code/Cognician/Reports/src/cognician/reports/report_library/dyc/" (22210 61512 405684 306000) "../" "recon.clj" "./")
+
+("/home/nasreen/Code/Cognician/Reports/src/cognician/reports/report_library/de_beers/" (22192 22993 211177 832000) "repl.clj" "../" "./" "core.clj")
+
+("/home/nasreen/Code/Cognician/Reports/src/cognician/reports/report_library/rmb_report/" (22192 38652 532771 59000) "../" "./" "core.clj")
+
+("/home/nasreen/Code/Cognician/Reports/src/cognician/reports/tools/" (22192 31444 649559 175000) "../" "time_maps.clj" "tags.clj" "maths.clj" "format.clj" "./" "user_agents.clj")
+
+("/home/nasreen/.emacs.d/elpa/starter-kit-20130904.1547/" (22192 29344 233458 974000) "starter-kit-misc.elc" "starter-kit-defuns.el" "../" "starter-kit-autoloads.el" "starter-kit-autoloads.el~" "starter-kit-misc.el" "starter-kit.elc" "./" "starter-kit-defuns.elc" "starter-kit.el" "starter-kit-pkg.el" ".#starter-kit-autoloads.el")
+
+("/home/nasreen/Code/Cognician/Reports/resources/" (22184 26944 249467 633000) "../" "./" "mindset-grid.png" "schema/")
+
+("/home/nasreen/Code/Cognician/Reports/src/cognician/reports/services/" (22157 5265 361828 300000) "../" "datomic.clj" "env_config.clj" "./")
+
+("/home/nasreen/excel_test/" (22185 4848 387304 727000) "project.clj~" "doc/" ".nrepl-port" ".hgignore" "../" "LICENSE" "CHANGELOG.md" "resources/" "target/" "src/" "./" "README.md" "test/" "dev-resources/" ".gitignore" "project.clj")
+
+("/home/nasreen/excel_test/src/excel_test/" (22185 5518 39336 673000) "../" "./" "core.clj")
+
+("/home/nasreen/excel_test/src/" (22174 17280 942100 870000) "../" "excel_test/" "./")
+
+("/home/nasreen/Code/Cognician/Reports/src/cognician/reports/datomic/" (22157 5265 357828 300000) "../" "./" "util.clj")
+
+("/home/nasreen/Code/Cognician/Highstorm/" (22183 31944 406952 320000) "scratch/" "c3events.md" "migrations-bootstrap.cfg" "../" "circle.yml" "readme.md" "bootstrap.cfg" "dev/" "resources/" "target/" ".projectile" "src/" "config.edn" "./" ".git/" "test/" "dev-resources/" "appspec.yml" ".gitignore" "riemann.config" "logs/" "logback.xml" "project.clj" "riemann.log" "scripts/")
+
+("/home/nasreen/Code/Cognician/Highstorm/dev/manual_reporting/" (22183 17994 807602 544000) "../" "scratch.clj" "reports/" "./" "nasreen/" "utils/" "utils.clj")
+
+("/home/nasreen/Code/Cognician/Reports/resources/schema/" (22157 5265 357828 300000) "../" "./" "schema.edn")
+
+("/home/nasreen/.emacs.d/elpa/" (22064 49429 963396 434000) "swiper-20151023.512/" "haml-mode-20150508.2011/" "json-snatcher-20150511.2047/" "buffer-move-20150523.513/" "clj-refactor-20151021.1408/" "company-20151023.1754/" "s-20150924.406/" "../" "async-20150909.2257/" "with-editor-20151022.933/" "paxedit-20150405.1608/" "git-link-20150927.1025/" "epl-20150517.433/" "popup-20150626.711/" "clojure-snippets-20150504.144/" "cider-20151028.152/" "ido-ubiquitous-20151005.2131/" "hydra-20151019.233/" "git-commit-20151022.933/" "edn-20150929.146/" "starter-kit-lisp-20120504.1225/" "rainbow-delimiters-20150320.17/" "multiple-cursors-20150710.456/" "json-mode-20150413.1948/" "cider-eval-sexp-fu-20150320.2015/" "color-identifiers-mode-20150602.1804/" "yasnippet-20151021.1539/" "align-cljlet-20150913.145/" "starter-kit-20130904.1547/" "./" "magit-popup-20151022.1002/" "find-file-in-project-20151022.708/" "pkg-info-20150517.443/" "elisp-slime-nav-20150805.1248/" "sass-mode-20150508.2012/" "clojure-mode-20151026.1453/" "json-reformat-20151007.1728/" "magit-20151025.1115/" "ack-and-a-half-1.2.0/" "queue-0.1.1/" "color-theme-sanityinc-tomorrow-20150803.1419/" "peg-20150707.2341/" "archives/" "inflections-20121016.157/" "eval-sexp-fu-20131230.1351/" "avy-20151026.59/" "paredit-20150217.713/" "highlight-20150818.1118/" "powerline-20151008.1449/" "seq-20151019.1553/" "dash-20151021.113/" "ido-completing-read+-20151005.2131/" "spinner-1.4/" "starter-kit-bindings-20120101.1955/" "expand-region-20150902.558/" "idle-highlight-mode-20120920.948/" "smex-20150822.1146/" "markdown-mode-20151011.1256/" "projectile-20151024.943/")
+
+("/home/nasreen/Code/Cognician/Highstorm/dev/manual_reporting/reports/" (22159 34173 100161 234000) "debeers.clj" "../" "searches.clj" "dnvgl.clj" "cci_translation.clj" "ipl.clj" "rodan_and_fields.clj" "standard_bank.clj" "delight_survey.clj" "mindful_revolution.clj" "./" "sacap.clj")
+
+("/home/nasreen/Code/Cognician/Reports/src/cognician/" (22157 5265 357828 300000) "../" "reports/" "./")
+
+("/home/nasreen/Code/Cognician/Reports/src/" (22157 5265 357828 300000) "../" "cognician/" "./")
+
+("/home/nasreen/Code/Cognician/Reports/dev/" (22157 5265 353828 300000) "../" "user.clj" "./")
+
+("/home/nasreen/Code/Cognician/" (22157 5259 525828 22000) "zsh-plugin/" "Radiant/" "Resources/" "../" "Polyglot/" "Shard/" "C3/" "octo/" "Hex/" "Spren/" "Reports/" "./" "Builder/" "Core/" "Highstorm/" "Server/")
+
+("/home/nasreen/Code/Cognician/Highstorm/dev/manual_reporting/utils/bundles/la/" (22117 25889 104210 472000) "../" "mindset_graph.clj" "./" "mindsets.clj")
+
+("/home/nasreen/Code/Cognician/Highstorm/dev/manual_reporting/utils/bundles/" (22117 25889 104210 472000) "../" "la.clj" "./" "la/")
+
+("/home/nasreen/Code/Cognician/Highstorm/dev/manual_reporting/utils/" (22127 60247 780489 164000) "tagging.clj" "linguistics.clj" "../" "plots/" "templates.clj" "bundles/" "chat_export.clj" "c2/" "./" "cog_stats.clj" "week_map.clj" "time_spent.clj")
+
+("/home/nasreen/Code/Cognician/Highstorm/dev/manual_reporting/nasreen/" (22126 38669 936103 356000) "../" "delight_at_work.clj" "standard_bank.clj" "./" "delight-survey.clj" "sacap-report.clj")
+
+("/home/nasreen/Code/Cognician/Highstorm/dev/manual_reporting/utils/c2/" (22117 31532 156120 629000) "../" ".#time_spent.clj" "./" "time_spent.clj")
+
+("/home/nasreen/Datomic/" (22095 5990 79764 939000) "../" ".DS_Store" "./" "transactor-dev.properties" "runtime/" "datomic-pro-0.9.5327/")
+
+("/home/nasreen/Code/Cognician/Highstorm/dev/" (22095 7380 899831 288000) "../" "user.clj" "manual_reporting/" "./")
+
+("/home/nasreen/Code/" (22081 62817 622013 349000) "zsh-users/" "../" "Cognician/" "./")
+
+("/home/nasreen/Pracs/clojure-noob/src/clojure_noob/" (22066 4040 20525 217000) "../" "core.clj~" "./" "core.clj")
+
+("/home/nasreen/Pracs/clojure-noob/src/" (22064 40993 458993 967000) "../" "./" "clojure_noob/")
+
+("/home/nasreen/Pracs/clojure-noob/" (22066 12955 352950 526000) "project.clj~" "doc/" ".hgignore" "../" "LICENSE" "CHANGELOG.md" "resources/" "target/" "src/" "./" "README.md" ".lein-repl-history" "test/" "dev-resources/" ".gitignore" "project.clj")
+
+("/home/nasreen/Pracs/" (22075 1335 158855 198000) "../" "clojure-noob/" "./" "Ch3-exercises/")
+
+("/home/nasreen/Documents/" (22056 60989 591669 543000) "../" "practise" "./")
+
+("/home/nasreen/cognician/reporting/random-mindset/src/random_mindset/" (22083 3254 966003 543000) "../" "./" "core.clj")
+
+("/home/nasreen/cognician/reporting/random-mindset/src/" (22081 52091 417501 651000) "../" "random_mindset/" "./")
+
+("/home/nasreen/cognician/reporting/random-mindset/" (22082 2932 654282 933000) "doc/" ".hgignore" "../" "LICENSE" "CHANGELOG.md" "resources/" "target/" "src/" "./" "README.md" "test/" ".gitignore" "project.clj")
+
+("/home/nasreen/cognician/reporting/" (22081 62817 622013 349000) "../" "mindset-plotting/" "./" "random-mindset/")
+
+("/home/nasreen/cognician/dnv-gl-report/" (22073 51524 166704 265000) "../" "dnv-gl-report/" "./")
+
+("/home/nasreen/cognician/" (22081 62790 866012 72000) "../" "dnv-gl-report/" "./" "debeers/" "reporting/" "dnv-gl-cog-uses.csv")
+
+("/home/" (22044 50798 402805 301000) "../" "lost+found/" "./" "nasreen/")
+
+("/home/nasreen/clojure-noob/src/clojure_noob/" (22066 4040 20525 217000) "../" "core.clj~" "./" "core.clj")
+
+("/home/nasreen/clojure-noob/" (22066 3680 404508 61000) "project.clj~" "doc/" ".hgignore" "../" "LICENSE" "CHANGELOG.md" "resources/" "target/" "src/" "./" "README.md" ".lein-repl-history" "test/" "dev-resources/" ".gitignore" "project.clj")
+
+("/home/nasreen/clojure-noob/src/" (22064 40993 458993 967000) "../" "./" "clojure_noob/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

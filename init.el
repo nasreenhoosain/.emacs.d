@@ -57,6 +57,7 @@
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
+ '(default ((t (:family "fixed" :foundry "misc" :slant normal :weight normal :height 150 :width normal))))
  '(font-lock-warning-face ((((class color) (min-colors 89)) (:weight bold :foreground "#cc0000"))))
  '(idle-highlight ((t (:inherit region :background "maroon4")))))
 
@@ -71,6 +72,7 @@
    (vector "#cccccc" "#f2777a" "#99cc99" "#ffcc66" "#6699cc" "#cc99cc" "#66cccc" "#2d2d2d"))
  '(auto-save-default nil)
  '(backup-inhibited t t)
+ '(blink-cursor-mode nil)
  '(blink-matching-paren nil)
  '(cider-buffer-name-show-port t)
  '(cljr-favor-prefix-notation nil)
@@ -83,6 +85,7 @@
  '(projectile-use-git-grep t)
  '(show-paren-delay 0)
  '(show-paren-mode t)
+ '(tool-bar-mode nil)
  '(vc-annotate-background nil)
  '(vc-annotate-color-map
    (quote
@@ -218,8 +221,10 @@
 (projectile-global-mode)
 (setq projectile-show-paths-function 'projectile-hashify-with-relative-paths)
 
-;; Visual
-(set-default-font "Input Mono Condensed 14")
+;; Visual;;(set-face-attribute 'default nil :height 110 :family "InputMonoCondensed")
+;;(set-frame-font   InputMonoCondensed 12 nil t)
+(set-face-attribute 'default nil :height 110 :family "Monoid")
+;;(set-default-font "Monoid 12")
 (load-theme 'sanityinc-tomorrow-night t)
 (add-hook 'prog-mode-hook 'rainbow-delimiters-mode)
 (remove-hook 'prog-mode-hook 'esk-turn-on-hl-line-mode)
